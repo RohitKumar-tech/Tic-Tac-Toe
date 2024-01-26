@@ -1,4 +1,4 @@
-![image](https://github.com/RohitKumar-tech/Tic-Tac-Toe/assets/73387772/8f42d826-ac63-4a95-810f-62710679c2be)**Tic Tac Toe Game**
+# Tic Tac Toe Game
 
 Welcome to the Tic Tac Toe game! This classic game has been brought to life using HTML, CSS, and JavaScript to provide a fun and interactive experience for players of all ages. Below you'll find instructions on how to play and details about the implementation.
 
